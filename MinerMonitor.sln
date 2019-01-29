@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerMonitor", "MinerWrapper\MinerMonitor.csproj", "{01CE8ACE-5547-4AB8-9783-9AE3790A70BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01CE8ACE-5547-4AB8-9783-9AE3790A70BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CE8ACE-5547-4AB8-9783-9AE3790A70BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CE8ACE-5547-4AB8-9783-9AE3790A70BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CE8ACE-5547-4AB8-9783-9AE3790A70BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8B3C96-FE17-4D64-B2CC-E3B1643361E6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gsbm.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = MinerWrapper\\MinerMonitor.csproj
+		SccProjectName0 = MinerWrapper
+		SccLocalPath0 = MinerWrapper
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal

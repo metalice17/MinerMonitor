@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="IBM437"?>
+<settings>
+	<host>
+		<name>localhost</name>
+		<ip>127.0.0.1</ip>
+		<port>4028</port>
+	</host>	
+	<timeout>
+		<value>100</value>
+	</timeout>
+</settings>
