@@ -2,6 +2,7 @@
 
 MinerMonitor is an user-friendly open-source miner monitor for Windows operating systems. This miner aims at stability with a simple design and the managed .NET Framework.
 <br><br>
+<img src="https://snag.gy/t3QThG.jpg" alt="ScreenShot"><br>
 All you have to do to monitor the appropriate miner RIG's is to download and edit the config file with your mining rig details, run the executable, launch the miner monitor, choose a display mode. Please carefully read Prerequisites before execution.
 <br><br>
 Currently, the miner monitor supports the following Mining Software:
