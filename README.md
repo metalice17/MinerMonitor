@@ -22,3 +22,6 @@ Windows 8.1 64-bit or later (Windows 10 is strongly recommended).<br>
 If you like what we have done and would like to donate anything to say thank you, or further the project:<br>
 ETH Donation Address: 0x715cef27f25040091da96ed76b83a7d5323012c7<br>
 BTC Donation Address: 16EdZ2fb51yHFR9MRvPbAJZv6rayAyigwY
+  
+<br>
+<i>Special thanks to <a href="https://github.com/OhGodADog">Ku4eto</a> for his input.</i>
